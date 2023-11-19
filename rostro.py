@@ -1,3 +1,5 @@
+# Instalar meadipipe y playsound, al instalar mdeiapipe si intala hata cv2. 
+# Si se quiere emitir sonidos descomentar la parte de sonido microsueños y distracciones. El problema es que debe terminar de reproducir el audio para continuar con programa.
 import cv2
 import mediapipe as mp
 import numpy as np
